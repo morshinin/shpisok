@@ -1,4 +1,6 @@
-# vuex-todo
+# Shpisok
+
+Simple Vue and Vuex todo list app.
 
 ## Project setup
 ```
